@@ -1,5 +1,5 @@
-# Hi 👋 I'm Prabesh Aryal  
-### Electrical Engineering Student | Embedded Systems Enthusiast | Builder 🚀
+# Hello Everyone, I'm Prabesh Aryal  
+### Electrical Engineering Student | Embedded Systems Enthusiast | Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Embedded+Systems+Developer;Rocketry+%26+Flight+Computer+Enthusiast;IoT+%26+Hardware+Builder;Always+Learning+Something+New" />
 
