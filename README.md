@@ -7,25 +7,25 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
-- 🎓 Electrical Engineering student at Arkansas State University
-- 🔧 Passionate about:
+  - Electrical Engineering student at Arkansas State University
+  - Passionate about:
   - Embedded Systems
   - Aerospace & Rocketry
   - Power Electronics
   - IoT & Automation
   - Networking & Servers
   - AI + Hardware Integration
-- 🛠️ I enjoy building real-world engineering projects from scratch
-- 🌱 Currently learning advanced embedded systems, flight computers, and PCB design
-- ⚡ I love experimenting with electronics, batteries, Linux systems, and custom hardware
+  - I enjoy building real-world engineering projects from scratch
+  - Currently learning advanced embedded systems, flight computers, and PCB design
+  - I love experimenting with electronics, batteries, Linux systems, and custom hardware
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
-## 💻 Programming Languages
+## Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔌 Hardware & Embedded
+## Hardware & Embedded
 - ESP32 / NodeMCU
 - Raspberry Pi
 - Sensors & Telemetry Systems
@@ -45,7 +45,7 @@
 
 ---
 
-## ⚙️ Tools & Platforms
+## Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -53,9 +53,9 @@
 
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
-## 🚀 Rocket Flight Computer
+## Rocket Flight Computer
 Custom high-powered rocket avionics system featuring:
 - Altitude estimation
 - Sensor telemetry
@@ -64,7 +64,7 @@ Custom high-powered rocket avionics system featuring:
 
 ---
 
-## 🔋 Multi-Purpose 1000W Power Bank System
+## Multi-Purpose 1000W Power Bank System
 A custom-designed portable power platform with:
 - 220V AC Output
 - USB PD Fast Charging
@@ -74,7 +74,7 @@ A custom-designed portable power platform with:
 
 ---
 
-## 🏠 IoT Home Automation
+## IoT Home Automation
 Built IoT systems using ESP32/NodeMCU for:
 - Smart automation
 - Remote control
@@ -83,7 +83,7 @@ Built IoT systems using ESP32/NodeMCU for:
 
 ---
 
-## 🖥️ NAS & Server Projects
+## NAS & Server Projects
 Experimenting with:
 - Portable NAS systems
 - Raspberry Pi servers
@@ -93,7 +93,7 @@ Experimenting with:
 
 ---
 
-# 📚 Currently Exploring
+# Currently Exploring
 
 - Advanced Embedded Systems
 - Rocketry Electronics
@@ -105,7 +105,7 @@ Experimenting with:
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Experimenting with:
 
 ---
 
-# 🎯 Goals
+# Goals
 
 - Build impactful engineering projects
 - Contribute to open-source
@@ -127,22 +127,22 @@ Experimenting with:
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-📧 Email: YOUR_EMAIL
+ Email: YOUR_EMAIL
 
 ---
 
-# ⚡ Fun Facts
+# Fun Facts
 
-- 🔧 I enjoy repairing electronics and experimenting with hardware
-- 🚀 I’m deeply interested in aerospace systems and rocketry
-- 🎨 I also enjoy portrait sketching and creative projects
-- 💡 I love understanding how systems work internally
+- I enjoy repairing electronics and experimenting with hardware
+- I’m deeply interested in aerospace systems and rocketry
+- I also enjoy portrait sketching and creative projects
+- I love understanding how systems work internally
 
 ---
 
