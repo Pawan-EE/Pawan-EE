@@ -133,7 +133,7 @@ Experimenting with:
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
- Email: YOUR_EMAIL
+Email: aryalprabesh2002@gmail.com
 
 ---
 
