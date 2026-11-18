@@ -1,148 +1,220 @@
-# Hello Everyone, I'm Prabesh Aryal  
-### Electrical Engineering Student | Embedded Systems Enthusiast | Builder
+# Hi, I'm Prabesh Aryal 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Embedded+Systems+Developer;Rocketry+%26+Flight+Computer+Enthusiast;IoT+%26+Hardware+Builder;Always+Learning+Something+New" />
+**Electrical Engineering Student | Embedded Systems · Electronics · Hardware–Software Integration**
 
-</div>
+🎓 **Arkansas State University** — B.S. Electrical Engineering, Expected 2027  
+🔎 **Seeking 2027 internships** in Embedded Systems, Electrical/Hardware Engineering, Firmware, and Test Engineering
 
----
-
-# About Me
-
-  - Electrical Engineering student at Arkansas State University
-  - Passionate about:
-  - Embedded Systems
-  - Aerospace & Rocketry
-  - Power Electronics
-  - IoT & Automation
-  - Networking & Servers
-  - AI + Hardware Integration
-  - I enjoy building real-world engineering projects from scratch
-  - Currently learning advanced embedded systems, flight computers, and PCB design
-  - I love experimenting with electronics, batteries, Linux systems, and custom hardware
+[LinkedIn](https://www.linkedin.com/in/prabesh-aryal-6475942a7/) · [GitHub](https://github.com/Pawan-EE) · [Email](mailto:aryalprabesh2002@gmail.com)
 
 ---
 
-# Tech Stack
+## About Me
 
-## Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+I'm an electrical engineering student who enjoys working at the intersection of **hardware and software**.
 
----
+My interests include embedded systems, electronics design, power electronics, robotics, and hardware development. I enjoy taking ideas from concept to prototype—selecting components, building circuits, developing firmware, troubleshooting problems, and documenting what I've learned.
 
-## Hardware & Embedded
-- ESP32 / NodeMCU
-- Raspberry Pi
-- Sensors & Telemetry Systems
-- Power Electronics
-- Battery Systems
-- DC-DC Converters
-- Flight Computers
-- IoT Systems
+My hands-on experience includes ESP32-based embedded projects, battery-powered electronics, IoT systems, and Linux-based servers.
 
----
+I'm currently strengthening my skills in **embedded C/C++, circuit design, PCB development, and hardware testing**.
 
-## Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+My goal is to contribute to real engineering projects, learn from experienced engineers, and build reliable systems that solve practical problems.
 
----
+## Featured Projects
 
-# Featured Projects
+### [ESP32 Vehicle Health Computer](https://github.com/Pawan-EE/esp32-vehicle-health-computer)
 
-## Rocket Flight Computer
-Custom high-powered rocket avionics system featuring:
-- Altitude estimation
-- Sensor telemetry
-- Data logging
-- Expandable modular architecture
+**ESP32-S3 · C++ · CAN/TWAI · OBD-II · Wi-Fi**
 
----
+An embedded vehicle telemetry and diagnostics software prototype.
 
-## Multi-Purpose 1000W Power Bank System
-A custom-designed portable power platform with:
-- 220V AC Output
-- USB PD Fast Charging
-- Car Jump Starter
-- 12V / 24V Outputs
-- High-efficiency power conversion
+- Developed firmware architecture for CAN/OBD-II communication and a local Wi-Fi dashboard.
+- Implemented diagnostic data handling and trouble-code processing.
+- Documented hardware requirements, wiring, and bring-up procedures.
+- Included automated builds, protocol tests, and validation documentation.
 
----
+**Status:** Software prototype with documented tests. Physical CAN hardware integration and vehicle testing are pending.
 
-## IoT Home Automation
-Built IoT systems using ESP32/NodeMCU for:
-- Smart automation
-- Remote control
-- Monitoring systems
-- Sensor integration
+[View repository](https://github.com/Pawan-EE/esp32-vehicle-health-computer)
 
----
+### [ESP32-S3 Smart Portfolio Card](https://github.com/Pawan-EE/ESP32-Smart-Portfolio-Card)
 
-## NAS & Server Projects
-Experimenting with:
-- Portable NAS systems
-- Raspberry Pi servers
-- Self-hosted services
-- RAID storage systems
-- Networking infrastructure
+**ESP32-S3 · Arduino/C++ · SPI · TFT Display · Wi-Fi**
 
----
+A compact electronic portfolio device combining embedded firmware, a graphical display, and a locally hosted web interface.
 
-# Currently Exploring
+- Integrated an ESP32-S3 with an ST7735 TFT display.
+- Developed firmware for display control and Wi-Fi connectivity.
+- Implemented an embedded HTTP server for a mobile-friendly portfolio page.
+- Built a hardware prototype and documented the connections.
 
-- Advanced Embedded Systems
-- Rocketry Electronics
-- Sensor Fusion
-- PCB Design
-- FPGA & Digital Electronics
-- Linux Servers & Networking
-- AI-integrated hardware systems
+**Status:** Published prototype and firmware; further refinements are ongoing.
 
----
+[View repository](https://github.com/Pawan-EE/ESP32-Smart-Portfolio-Card)
 
-# GitHub Stats
+## Additional Engineering Experience
 
-<div align="center">
+**Portable Power Systems**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+Hands-on prototyping involving lithium-ion battery packs, battery management systems, DC–DC converters, charging interfaces, and power distribution.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+**Linux NAS & Home Server**
 
-</div>
+Repurposed laptop hardware into a Linux-based personal server using Ubuntu Server, Docker, networked storage, and remote administration.
 
----
+**NodeMCU Home Automation**
 
-# Goals
+Developed an IoT home-automation prototype involving remote appliance control and voice-assistant integration.
 
-- Build impactful engineering projects
-- Contribute to open-source
-- Gain aerospace/embedded internship experience
-- Strengthen hardware + software integration skills
-- Create innovative real-world solutions
+**Rocketry & Avionics**
 
----
+Participated in rocketry-related activities exploring sensor integration, flight-computer concepts, telemetry, and data logging.
 
-# Connect With Me
+*Additional documentation and verified test results for these projects are being organized.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prabesh-aryal-6475942a7)
+## Technical Skills
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pawan-EE)
+| Area | Technologies & Experience |
+|---|---|
+| **Embedded Systems** | ESP32, ESP32-S3, NodeMCU, Arduino ecosystem |
+| **Programming** | C/C++ firmware; developing Python and MATLAB skills |
+| **Communication** | SPI, I²C, UART, Wi-Fi, CAN/TWAI software prototyping |
+| **Electronics** | Circuit prototyping, soldering, sensor integration, hardware troubleshooting |
+| **Power Electronics** | Battery systems, BMS, DC–DC converters, power distribution |
+| **Tools & Systems** | Linux, Ubuntu Server, Docker, Git, GitHub, VS Code |
 
-Email: aryalprabesh2002@gmail.com
+## Currently Learning
+
+- Embedded firmware development and debugging
+- PCB schematic capture and layout
+- Analog and power-electronics design
+- Hardware measurements, testing, and validation
+- Robotics and sensor integration
+
+## Beyond Engineering
+
+My interest in electronics began with curiosity about how devices work. I enjoy repairing electronics, experimenting with hardware, and learning by building.
+
+Outside engineering, I enjoy **astronomy and photography**.
+
+## Connect With Me
+
+I'm interested in engineering internships, technical collaboration, and opportunities to learn from experienced engineers.
+
+- **LinkedIn:** [Prabesh Aryal](https://www.linkedin.com/in/prabesh-aryal-6475942a7/)
+- **GitHub:** [Pawan-EE](https://github.com/Pawan-EE)
+- **Email:** [aryalprabesh2002@gmail.com](mailto:aryalprabesh2002@gmail.com)
+
+*Learning continuously. Building thoughtfully. Improving through engineering practice.*# Hi, I'm Prabesh Aryal 👋
+
+**Electrical Engineering Student | Embedded Systems · Electronics · Hardware–Software Integration**
+
+🎓 **Arkansas State University** — B.S. Electrical Engineering, Expected 2027  
+🔎 **Seeking 2027 internships** in Embedded Systems, Electrical/Hardware Engineering, Firmware, and Test Engineering
+
+[LinkedIn](https://www.linkedin.com/in/prabesh-aryal-6475942a7/) · [GitHub](https://github.com/Pawan-EE) · [Email](mailto:aryalprabesh2002@gmail.com)
 
 ---
 
-# Fun Facts
+## About Me
 
-- I enjoy repairing electronics and experimenting with hardware
-- I’m deeply interested in aerospace systems and rocketry
-- I also enjoy portrait sketching and creative projects
-- I love understanding how systems work internally
+I'm an electrical engineering student who enjoys working at the intersection of **hardware and software**.
+
+My interests include embedded systems, electronics design, power electronics, robotics, and hardware development. I enjoy taking ideas from concept to prototype—selecting components, building circuits, developing firmware, troubleshooting problems, and documenting what I've learned.
+
+My hands-on experience includes ESP32-based embedded projects, battery-powered electronics, IoT systems, and Linux-based servers.
+
+I'm currently strengthening my skills in **embedded C/C++, circuit design, PCB development, and hardware testing**.
+
+My goal is to contribute to real engineering projects, learn from experienced engineers, and build reliable systems that solve practical problems.
+
+## Featured Projects
+
+### [ESP32 Vehicle Health Computer](https://github.com/Pawan-EE/esp32-vehicle-health-computer)
+
+**ESP32-S3 · C++ · CAN/TWAI · OBD-II · Wi-Fi**
+
+An embedded vehicle telemetry and diagnostics software prototype.
+
+- Developed firmware architecture for CAN/OBD-II communication and a local Wi-Fi dashboard.
+- Implemented diagnostic data handling and trouble-code processing.
+- Documented hardware requirements, wiring, and bring-up procedures.
+- Included automated builds, protocol tests, and validation documentation.
+
+**Status:** Software prototype with documented tests. Physical CAN hardware integration and vehicle testing are pending.
+
+[View repository](https://github.com/Pawan-EE/esp32-vehicle-health-computer)
+
+### [ESP32-S3 Smart Portfolio Card](https://github.com/Pawan-EE/ESP32-Smart-Portfolio-Card)
+
+**ESP32-S3 · Arduino/C++ · SPI · TFT Display · Wi-Fi**
+
+A compact electronic portfolio device combining embedded firmware, a graphical display, and a locally hosted web interface.
+
+- Integrated an ESP32-S3 with an ST7735 TFT display.
+- Developed firmware for display control and Wi-Fi connectivity.
+- Implemented an embedded HTTP server for a mobile-friendly portfolio page.
+- Built a hardware prototype and documented the connections.
+
+**Status:** Published prototype and firmware; further refinements are ongoing.
+
+[View repository](https://github.com/Pawan-EE/ESP32-Smart-Portfolio-Card)
+
+## Additional Engineering Experience
+
+**Portable Power Systems**
+
+Hands-on prototyping involving lithium-ion battery packs, battery management systems, DC–DC converters, charging interfaces, and power distribution.
+
+**Linux NAS & Home Server**
+
+Repurposed laptop hardware into a Linux-based personal server using Ubuntu Server, Docker, networked storage, and remote administration.
+
+**NodeMCU Home Automation**
+
+Developed an IoT home-automation prototype involving remote appliance control and voice-assistant integration.
+
+**Rocketry & Avionics**
+
+Participated in rocketry-related activities exploring sensor integration, flight-computer concepts, telemetry, and data logging.
+
+*Additional documentation and verified test results for these projects are being organized.*
+
+## Technical Skills
+
+| Area | Technologies & Experience |
+|---|---|
+| **Embedded Systems** | ESP32, ESP32-S3, NodeMCU, Arduino ecosystem |
+| **Programming** | C/C++ firmware; developing Python and MATLAB skills |
+| **Communication** | SPI, I²C, UART, Wi-Fi, CAN/TWAI software prototyping |
+| **Electronics** | Circuit prototyping, soldering, sensor integration, hardware troubleshooting |
+| **Power Electronics** | Battery systems, BMS, DC–DC converters, power distribution |
+| **Tools & Systems** | Linux, Ubuntu Server, Docker, Git, GitHub, VS Code |
+
+## Currently Learning
+
+- Embedded firmware development and debugging
+- PCB schematic capture and layout
+- Analog and power-electronics design
+- Hardware measurements, testing, and validation
+- Robotics and sensor integration
+
+## Beyond Engineering
+
+My interest in electronics began with curiosity about how devices work. I enjoy repairing electronics, experimenting with hardware, and learning by building.
+
+Outside engineering, I enjoy **astronomy and photography**.
+
+## Connect With Me
+
+I'm interested in engineering internships, technical collaboration, and opportunities to learn from experienced engineers.
+
+- **LinkedIn:** [Prabesh Aryal](https://www.linkedin.com/in/prabesh-aryal-6475942a7/)
+- **GitHub:** [Pawan-EE](https://github.com/Pawan-EE)
+- **Email:** [aryalprabesh2002@gmail.com](mailto:aryalprabesh2002@gmail.com)
+
+*Learning continuously. Building thoughtfully. Improving through engineering practice.*
 
 ---
 
